@@ -1,13 +1,9 @@
 {
-  "main.js": "./static/js/main.aee489a7.js",
-  "main.css": "./static/css/main.a6905e10.css",
-  "main.js.map": "./static/js/main.aee489a7.js.map",
-  "main.css.map": "./static/css/main.a6905e10.css.map",
-  "static/media/NotoNaskhArabicUI-Bold.ttf": "./static/media/NotoNaskhArabicUI-Bold.9429aacc.ttf",
-  "static/media/MaterialIcons-Regular.eot": "./static/media/MaterialIcons-Regular.016c14ad.eot",
-  "static/media/MaterialIcons-Regular.woff": "./static/media/MaterialIcons-Regular.c38ebd3c.woff",
-  "static/media/MaterialIcons-Regular.ttf": "./static/media/MaterialIcons-Regular.55242ea5.ttf",
+  "main.js": "./static/js/main.a0f1e365.js",
+  "main.css": "./static/css/main.eebad06b.css",
+  "main.js.map": "./static/js/main.a0f1e365.js.map",
+  "main.css.map": "./static/css/main.eebad06b.css.map",
   "static/media/NotoNaskhArabicUI-Regular.ttf": "./static/media/NotoNaskhArabicUI-Regular.7aff0c64.ttf",
-  "static/media/MaterialIcons-Regular.woff2": "./static/media/MaterialIcons-Regular.8a9a261c.woff2",
+  "static/media/NotoNaskhArabicUI-Bold.ttf": "./static/media/NotoNaskhArabicUI-Bold.9429aacc.ttf",
   "index.html": "./index.html"
 }
