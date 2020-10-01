@@ -14,7 +14,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Sep 29 2020 18:23:01 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Oct 01 2020 15:59:55 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
