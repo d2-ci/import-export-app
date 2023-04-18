@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Fri Apr 14 2023 08:51:22 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Apr 18 2023 13:26:52 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
