@@ -3,7 +3,7 @@
   "short_name": "import-export",
   "name": "Import/Export",
   "description": "",
-  "version": "1.5.63",
+  "version": "1.5.64",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Sun Nov 19 2023 01:55:48 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Sun Nov 26 2023 02:06:20 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
