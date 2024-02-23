@@ -1,0 +1,1250 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2022
+# Hamza Assada <7amza.it@gmail.com>, 2022
+# phil_dhis2, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2023-03-06T13:48:45.764Z\n"
+"PO-Revision-Date: 2019-06-04 17:24+0000\n"
+"Last-Translator: phil_dhis2, 2022\n"
+"Language-Team: Arabic (https://app.transifex.com/hisp-uio/teams/100509/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Something went wrong when loading the current user!"
+msgstr "حدث خطأ أثناء تحميل المستخدم الحالي"
+
+msgid "Basic options"
+msgstr "الخيارات الأساسية"
+
+msgid "Invalid date"
+msgstr "تاريخ غير صالح"
+
+msgid "Start date must be before end date"
+msgstr "يجب أن يكون تاريخ البدء قبل تاريخ الانتهاء"
+
+msgid "End date must be after start date"
+msgstr "يجب أن يكون تاريخ الانتهاء بعد تاريخ البدء"
+
+msgid "Invalid duration"
+msgstr "مدة غير صحيحة"
+
+msgid "Format"
+msgstr "التنسيق"
+
+msgid ""
+"Something went wrong when loading the additional data element ID schemes"
+msgstr "حدث خطأ ما أثناء تحميل الـ ID schemes الإضافية الخاصة بعنصر البيانات"
+
+msgid "Something went wrong when loading the additional ID schemes"
+msgstr "حدث خطأ ما أثناء تحميل الـ ID schemes الإضافية"
+
+msgid ""
+"Something went wrong when loading the additional organisation unit ID "
+"schemes"
+msgstr ""
+"حدث خطأ ما أثناء تحميل الـ ID schemes الإضافية الخاصة بالوحدة التنظيمية"
+
+msgid "Please select a file"
+msgstr "يرجى تحديد ملف"
+
+msgid "Import as associated geometry"
+msgstr ""
+
+msgid "Store geometry as value of attribute"
+msgstr ""
+
+msgid "Selected programs"
+msgstr "البرامج المحددة"
+
+msgid "Something went wrong when loading the attributes!"
+msgstr ""
+
+msgid "One attribute must be selected"
+msgstr ""
+
+msgid ""
+"Associated geometry import requires an attribute of type \"GeoJSON\" applied"
+" to \"Organisation unit\". It can be defined in the Maintenance app."
+msgstr ""
+
+msgid "Match GeoJSON property to organisation unit scheme"
+msgstr ""
+
+msgid "GeoJSON property name"
+msgstr ""
+
+msgid "GeoJSON feature property that holds the organisation unit identifier"
+msgstr ""
+
+msgid "A dry run tests the import settings without importing any data"
+msgstr "يختبر التشغيل الجاف إعدادات الاستيراد بدون استيراد أي بيانات فعليًا"
+
+msgid "Start dry run"
+msgstr "ابدأ التشغيل الجاف"
+
+msgid "Start import"
+msgstr "ابدأ الاستيراد"
+
+msgid "Any user"
+msgstr "أي مستخدم"
+
+msgid "Current user"
+msgstr "المستخدم الحالي"
+
+msgid "No user/unassigned"
+msgstr "لا يوجد مستخدم / غير معين"
+
+msgid "Selected users"
+msgstr "المستخدمون المختارون"
+
+msgid "Filter by assigned user"
+msgstr "تصفية حسب المستخدم المعين"
+
+msgid "Export only instances with events assigned to specific users"
+msgstr "تصدير النسخ ذات الأحداث المعينة لمستخدمين محددين فقط"
+
+msgid "Assigned user(s)"
+msgstr "مستخدم (مستخدمون) معينون"
+
+msgid "Do not import"
+msgstr "لا تستورد"
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "Atomic mode"
+msgstr ""
+
+msgid "Whether to import objects even if some references do not exist"
+msgstr ""
+
+msgid "Class key"
+msgstr ""
+
+msgid "Zip"
+msgstr "Zip"
+
+msgid "GZip"
+msgstr "GZip"
+
+msgid "Uncompressed"
+msgstr "غير مضغوط"
+
+msgid "Compression mode"
+msgstr "وضع الضغط"
+
+msgid "Uid"
+msgstr ""
+
+msgid "Code"
+msgstr "الرمز"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Data element ID scheme"
+msgstr ""
+
+msgid "Which data sets should be included in export?"
+msgstr "ما هي مجموعات البيانات التي يجب تضمينها في التصدير؟"
+
+msgid "Filter data sets"
+msgstr "تصفية مجموعات البيانات"
+
+msgid "Selected data sets"
+msgstr "حزم البيانات المحددة"
+
+msgid "Something went wrong when loading the data sets!"
+msgstr "حدث خطأ ما أثناء تحميل مجموعات البيانات!"
+
+msgid "At least one data set must be selected"
+msgstr "يجب تحديد مجموعة بيانات واحدة على الأقل"
+
+msgid "One data set must be selected"
+msgstr "يجب تحديد مجموعة بيانات واحدة"
+
+msgid "End date"
+msgstr "تاريخ النهاية"
+
+msgid "Event ID scheme"
+msgstr ""
+
+msgid "Loading export..."
+msgstr "جارٍ تحميل التصدير ..."
+
+msgid "Select a file to import values from"
+msgstr "حدد ملفًا لاستيراد القيم منه"
+
+msgid "Is the first row a header row?"
+msgstr "هل الصف الأول هو صف الرأس؟"
+
+msgid "First row is header"
+msgstr "الصف الأول هو عناوين الأعمدة"
+
+msgid "A header row will be ignored during import"
+msgstr "سيتم تجاهل صف الرأس أثناء الاستيراد"
+
+msgid "Auto (recommended)"
+msgstr "تلقائي (موصى به)"
+
+msgid "Object (debugging purposes)"
+msgstr ""
+
+msgid "Flush mode"
+msgstr ""
+
+msgid "Controls when to flush the internal cache"
+msgstr ""
+
+msgid "All"
+msgstr "الجميع"
+
+msgid "Marked for follow-up"
+msgstr "مُعلَّم للمتابعة"
+
+msgid "Not marked for follow-up"
+msgstr "غير مُعلَّم للمتابعة"
+
+msgid "Include only entities with follow-up status"
+msgstr "تضمين الكيانات ذات حالة المتابعة فقط"
+
+msgid "JSON"
+msgstr "JSON"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "XML"
+msgstr "XML"
+
+msgid "ADX"
+msgstr "ADX"
+
+msgid "PDF"
+msgstr "بي دي إف PDF"
+
+msgid "JSONP"
+msgstr "JSONP"
+
+msgid "What format is the data to import?"
+msgstr "ما هو تنسيق البيانات المراد استيرادها؟"
+
+msgid "What format should the data be exported as?"
+msgstr "ما هو التنسيق الذي يجب أن يتم تصدير البيانات به؟"
+
+msgid "ID scheme"
+msgstr ""
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Identifier"
+msgstr "المعرف"
+
+msgid "Identifier scheme to use for reference matching"
+msgstr ""
+
+msgid "Only include reports for objects that have errors"
+msgstr "قم فقط بتضمين تقارير الكائنات التي بها أخطاء"
+
+msgid "Errors"
+msgstr "اخطاء"
+
+msgid "Reports for all objects imported"
+msgstr "تقارير جميع الكائنات التي تم استيرادها"
+
+msgid "Full"
+msgstr "كامل"
+
+msgid "Reports for all objects imported along with their names (if available)"
+msgstr "تقارير عن كل العناصر المستوردة مع أسمائها (إن وجدت)"
+
+msgid "Debug"
+msgstr ""
+
+msgid "Import report mode"
+msgstr "اسلوب تقرير الاستيراد"
+
+msgid "Controls what should be reported after the import is done"
+msgstr "يتحكم في ما يجب التقرير عنه بعد إتمام الاستيراد"
+
+msgid "Import new values and update existing"
+msgstr "استيراد القيم الجديدة وتحديث الموجودة مسبقًا"
+
+msgid "Merge"
+msgstr "دمج"
+
+msgid "Import new values only"
+msgstr "استيراد القيم الجديدة فقط"
+
+msgid "Append"
+msgstr "إلحاق"
+
+msgid "Only update existing values, ignore new values"
+msgstr "قم بتحديث القيم الموجودة فقط ، وتجاهل القيم الجديدة"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Remove values included in uploaded file"
+msgstr "قم بإزالة القيم المضمنة في الملف الذي تم تحميله"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Data will be deleted"
+msgstr "سيتم حذف البيانات"
+
+msgid ""
+"Values in the uploaded file will be deleted from the database. Make sure "
+"this is the correct action; it cannot be undone."
+msgstr ""
+"سيتم حذف القيم الموجودة في الملف الذي تم تحميله من قاعدة البيانات. تأكد من "
+"أن هذا هو الإجراء الصحيح الذي تريده ؛ لا يمكن التراجع."
+
+msgid "Import strategy"
+msgstr "استراتيجية الاستيراد"
+
+msgid "Include all attributes"
+msgstr "قم بتضمين كافة السمات"
+
+msgid "Include descendants"
+msgstr ""
+
+msgid "Include descendants of selected organisation units"
+msgstr ""
+
+msgid "Include deleted"
+msgstr "تضمين ماتم حذفه"
+
+msgid "Include deleted data in export"
+msgstr "تضمين البيانات المحذوفة في التصدير"
+
+msgid "Only include selected organisation unit"
+msgstr "قم بتضمين الوحدة التنظيمية المحددة فقط"
+
+msgid "Selected"
+msgstr "محدد"
+
+msgid "Include the first level of units inside selections"
+msgstr "قم بتضمين المستوى الأول من الوحدات داخل التحديدات"
+
+msgid "Directly below"
+msgstr "مباشرة أدناه"
+
+msgid "Include all units inside selections"
+msgstr "قم بتضمين جميع الوحدات داخل التحديدات"
+
+msgid "All below"
+msgstr "كل ماهو أدنى"
+
+msgid "How should organisation units inside the selections be included?"
+msgstr "كيف يجب تضمين الوحدات التنظيمية داخل التحديدات؟"
+
+msgid "Includes properties which are not null"
+msgstr "يشمل الخصائص التي ليست null"
+
+msgid "Non null"
+msgstr ""
+
+msgid "Include all properties"
+msgstr "تضمين كل الخصائص"
+
+msgid "Always"
+msgstr "دائماً"
+
+msgid "Include non-empty properties"
+msgstr "تضمين الخصائص غير الفارغة"
+
+msgid "Non empty"
+msgstr "غير فارغ"
+
+msgid "Inclusion strategy"
+msgstr "استراتيجية الإدماج"
+
+msgid "Controls which properties to include"
+msgstr "يتحكم في الخصائص المراد تضمينها"
+
+msgid "Async"
+msgstr "غير متزامن"
+
+msgid "Asynchronous import"
+msgstr "استيراد غير متزامن"
+
+msgid "Controls whether the import is done asynchronously"
+msgstr "يتحكم في ما إذا كان الاستيراد يتم بشكل غير متزامن"
+
+msgid "Last updated duration"
+msgstr "مدة آخر تحديث"
+
+msgid "Last updated end date"
+msgstr "تاريخ انتهاء آخر تحديث"
+
+msgid "Do not filter by last updated date"
+msgstr "عدم التصفية حسب تاريخ آخر تحديث"
+
+msgid "Start/end dates"
+msgstr "تواريخ- البدء-الانتهاء"
+
+msgid "Time since last updated"
+msgstr "الوقت منذ آخر تحديث"
+
+msgid "Filter by last updated date"
+msgstr "التصفية حسب تاريخ آخر تحديث"
+
+msgid "Last updated start date"
+msgstr "تاريخ بدء آخر تحديث"
+
+msgid "Only overwrite the old property if the new property value is not-null"
+msgstr ""
+"الكتابة فوق الخاصية القديمة فقط إذا كانت قيمة الخاصية الجديدة ليست خالية "
+"null"
+
+msgid "Overwrite regardless of whether the new property value is null"
+msgstr "الكتابة فوق بغض النظر عما إذا كانت قيمة الخاصية الجديدة خالية null"
+
+msgid "Replace"
+msgstr "استبدال"
+
+msgid "Merge mode"
+msgstr "اسلوب الدمج"
+
+msgid "Strategy to take when merging two objects"
+msgstr "الإستراتيجية التي يتم اتخاذها عند دمج كائنين"
+
+msgid "Data sets"
+msgstr "حزم البيانات"
+
+msgid "Programs"
+msgstr "البرامج"
+
+msgid "Category combination"
+msgstr "مزيج الفئات"
+
+msgid "Dashboard"
+msgstr "لوحة المعلومات"
+
+msgid "Data element groups"
+msgstr "مجموعات عناصر البيانات"
+
+msgid "Option sets"
+msgstr ""
+
+msgid "Object type"
+msgstr "نوع العنصر"
+
+msgid "One object must be selected"
+msgstr "يجب تحديد كائن واحد على الأقل"
+
+msgid "Object"
+msgstr "الكائن"
+
+msgid "Organisation unit ID scheme"
+msgstr ""
+
+msgid "Id"
+msgstr "المعرف"
+
+msgid "Data view organisation units associated with the current user"
+msgstr "وحدات تنظيم عرض البيانات المرتبطة بالمستخدم الحالي"
+
+msgid "Accessible"
+msgstr "يمكن الوصول إليه"
+
+msgid "Data capture organisation units associated with the current user"
+msgstr "وحدات تنظيم جمع البيانات المرتبطة بالمستخدم الحالي"
+
+msgid "Capture"
+msgstr "التقاط"
+
+msgid "All organisation units in the system"
+msgstr "جميع الوحدات التنظيمية في النظام"
+
+msgid "Manually select organisation units from list"
+msgstr "حدد الوحدات التنظيمية يدويًا من القائمة"
+
+msgid "Which organisation units should be included?"
+msgstr "ما هي الوحدات التنظيمية التي يجب تضمينها؟"
+
+msgid "Organisation unit(s) to export data from"
+msgstr "وحدة (وحدات) تنظيمية لتصدير البيانات منها"
+
+msgid "Preheat cache"
+msgstr ""
+
+msgid "Preheat cache to make large imports faster"
+msgstr ""
+
+msgid "Large imports will be processed faster but will consume more resources"
+msgstr ""
+"ستتم معالجة عمليات الإستيراد الكبيرة بشكل أسرع ولكنها ستستهلك المزيد من "
+"الموارد"
+
+msgid "Intelligent scan (reference)"
+msgstr ""
+
+msgid "None"
+msgstr "لا شيء"
+
+msgid "Preheat mode"
+msgstr ""
+
+msgid "Controls the level of preheating that should be done"
+msgstr ""
+
+msgid "Program to export events from"
+msgstr "البرنامج الذي يتم تصدير الأحداث منه"
+
+msgid "Filter programs"
+msgstr "تصفية البرامج"
+
+msgid "Something went wrong when loading the programs!"
+msgstr "حدث خطأ ما أثناء تحميل البرامج!"
+
+msgid "At least one program must be selected"
+msgstr "يجب تحديد برنامج واحد على الأقل"
+
+msgid "One program must be selected"
+msgstr "يجب تحديد برنامج واحد"
+
+msgid "Which program stage should be included?"
+msgstr "ما هي مرحلة البرنامج التي يجب تضمينها؟"
+
+msgid "Start date"
+msgstr "تاريخ البداية"
+
+msgid "All statuses"
+msgstr ""
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Completed"
+msgstr "اكتمل"
+
+msgid "Cancelled"
+msgstr "تم الإلغاء"
+
+msgid "Include only entities with status"
+msgstr ""
+
+msgid "Skip audit"
+msgstr "تجاهل التدقيق"
+
+msgid "Skip audit, meaning audit values will not be generated"
+msgstr "تخطي التدقيق ، مما يعني أنه لن يتم إنشاء قيم التدقيق"
+
+msgid "Improves performance at the cost of ability to audit changes"
+msgstr "يحسن الأداء على حساب القدرة على مراجعة التغييرات"
+
+msgid "Skip exisiting check"
+msgstr ""
+
+msgid "Skip checks for existing data values"
+msgstr "تخطي عمليات التحقق من قيم البيانات الموجودة مسبقًا"
+
+msgid ""
+"Improves performance and should only be used for empty databases or when the"
+" data values to import do not exist already"
+msgstr ""
+"يعمل على تحسين الأداء ويجب استخدامه فقط لقواعد البيانات الفارغة أو عندما "
+"تكون قيم البيانات المراد استيرادها غير موجودة مسبقًا"
+
+msgid "Skip sharing"
+msgstr "تجنب حالة المشاركة"
+
+msgid "Skip sharing and access settings"
+msgstr "تخطي إعدادات المشاركة والوصول"
+
+msgid ""
+"Skip sharing properties, do not merge sharing when doing updates, and do not"
+" add user group access when creating new objects"
+msgstr ""
+"تخطي خصائص المشاركة ، ولا تدمج المشاركة عند إجراء التحديثات ، ولا تضف "
+"معلومات وصول مجموعة مستخدمين عند إنشاء كائنات جديدة"
+
+msgid "Skip validation"
+msgstr "تجنب عملية التحقق"
+
+msgid "Skip validation for import (not recommended)"
+msgstr ""
+
+msgid "Strategy"
+msgstr "استراتيجية"
+
+msgid "Program"
+msgstr "البرنامج"
+
+msgid "Tracked entity type"
+msgstr "نوع الكيان المتتبع"
+
+msgid "Filter by"
+msgstr "تصفية حسب"
+
+msgid "Tracked entity types"
+msgstr "أنواع الكيانات المتعقبة"
+
+msgid "Filter tracked entity types by name"
+msgstr "تصفية أنواع الكيانات المتعقبة حسب الاسم"
+
+msgid "Selected tracked entity types"
+msgstr ""
+
+msgid "Something went wrong when loading the tracked entity types!"
+msgstr "حدث خطأ ما عند تحميل أنواع الكيانات المتعقبة!"
+
+msgid "At least one tracked entity type must be selected"
+msgstr "يجب تحديد نوع كيان متتبع واحد على الأقل"
+
+msgid "One tracked entity type must be selected"
+msgstr ""
+
+msgid "Which users should be used?"
+msgstr "أي المستخدمين يجب استخدامهم؟"
+
+msgid "Filter users"
+msgstr "تصفية المستخدمين"
+
+msgid "Something went wrong when loading the users!"
+msgstr "حدث خطأ ما عند تحميل المستخدمين!"
+
+msgid "At least one user must be selected"
+msgstr "يجب تحديد مستخدم واحد على الأقل"
+
+msgid "One user must be selected"
+msgstr "يجب تحديد مستخدم واحد"
+
+msgid "No jobs started yet."
+msgstr "لم تبدأ أي مهام حتى الآن."
+
+msgid "Recreate job"
+msgstr "إعادة إنشاء المهمة"
+
+msgid "In progress"
+msgstr "قيد التقدم"
+
+msgid "Job details"
+msgstr "تفاصيل المهمة"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr "القيمة"
+
+msgid "Job summary"
+msgstr "خلاصة المهمة"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Conflicts"
+msgstr "تعارضات"
+
+msgid "Dry run"
+msgstr "تجريب دون حفظ فعلي للبيانات المستوردة"
+
+msgid "Log"
+msgstr "السجل"
+
+msgid "Time"
+msgstr "الوقت"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "ID"
+msgstr "المعرف"
+
+msgid "Messages"
+msgstr "الرسائل"
+
+msgid "Type"
+msgstr "النوع"
+
+msgid "Property"
+msgstr "خاصية"
+
+msgid "View summary of recently started import job"
+msgstr "عرض ملخص لمهمة الاستيراد التي بدأت مؤخرًا"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Summary"
+msgstr "الخلاصة"
+
+msgid "Created"
+msgstr "تم الإنشاء"
+
+msgid "Deleted"
+msgstr "تم حذفه"
+
+msgid "Ignored"
+msgstr "تم تجاهله"
+
+msgid "Updated"
+msgstr "تم تحديثه"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+msgid "Indexes"
+msgstr ""
+
+msgid "Details by type"
+msgstr "التفاصيل حسب النوع"
+
+msgid "Advanced options"
+msgstr "خيارات متقدمة"
+
+msgid "At least one organisation unit must be selected"
+msgstr "يجب تحديد وحدة تنظيمية واحدة على الأقل"
+
+msgid "One organisation unit must be selected"
+msgstr "يجب تحديد وحدة تنظيمية واحدة"
+
+msgid "Something went wrong when loading the organisation units!"
+msgstr "حدث خطأ ما أثناء تحميل الوحدات التنظيمية!"
+
+msgid "One program stage must be selected"
+msgstr "يجب تحديد مرحلة برنامج واحدة"
+
+msgid "Something went wrong when loading the schemas!"
+msgstr "حدث خطأ ما أثناء تحميل المخططات!"
+
+msgid "Select All"
+msgstr "تحديد الكل"
+
+msgid "Select None"
+msgstr "الغاء التحديد عن الكل"
+
+msgid "At least one schema must be selected"
+msgstr "يجب تحديد مخطط واحد على الأقل"
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "Data import"
+msgstr "استيراد البيانات"
+
+msgid "Event import"
+msgstr "استيراد الأحداث"
+
+msgid "Earth Engine import"
+msgstr ""
+
+msgid "Org unit geometry import"
+msgstr ""
+
+msgid "Metadata import"
+msgstr "استيراد البيانات الوصفية"
+
+msgid "TEI import"
+msgstr ""
+
+msgid "Data export"
+msgstr "تصدير البيانات"
+
+msgid "Event export"
+msgstr "تصدير الأحداث"
+
+msgid "Metadata dependency export"
+msgstr ""
+
+msgid "Metadata export"
+msgstr "تصدير البيانات الوصفية"
+
+msgid "TEI export"
+msgstr ""
+
+msgid "Job overview"
+msgstr "نظرة عامة على المهمة"
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "There are errors on this page"
+msgstr "هناك أخطاء في هذه الصفحة"
+
+msgid "Something went wrong when loading the class keys"
+msgstr "حدث خطأ ما عند تحميل class keys"
+
+msgid "Something went wrong when loading the objects"
+msgstr "حدث خطأ ما أثناء تحميل الكائنات"
+
+msgid "All program stages"
+msgstr "كل مراحل البرنامج"
+
+msgid "Something went wrong when loading the program stages"
+msgstr "حدث خطأ ما أثناء تحميل مراحل البرنامج"
+
+msgid ""
+"Export metadata, such as data elements and organisation units, in DXF 2 "
+"format."
+msgstr ""
+"تصدير البيانات الوصفية ، مثل عناصر البيانات والوحدات التنظيمية ، بتنسيق DXF "
+"2."
+
+msgid "Date range to export data for"
+msgstr "النطاق الزمني لتصدير البيانات فيه"
+
+msgid "Export data"
+msgstr "تصدير بيانات"
+
+msgid "Import data values from ADX XML, DXF 2 XML, JSON, CSV or PDF files."
+msgstr ""
+"استيراد قيم البيانات من ملفات ADX XML أو DXF 2 XML أو JSON أو CSV أو PDF."
+
+msgid "Supported file types: JSON, CSV, XML, ADX and PDF."
+msgstr "أنواع الملفات المدعومة: JSON و CSV و XML و ADX و PDF."
+
+msgid ""
+"Import high resolution population data from WorldPop using Google Earth "
+"Engine"
+msgstr ""
+
+msgid "Earth Engine source"
+msgstr ""
+
+msgid "Organisation units"
+msgstr "الوحدات التنظيمية"
+
+msgid "Import setup"
+msgstr ""
+
+msgid "Data preview"
+msgstr ""
+
+msgid "Some required fields are missing"
+msgstr ""
+
+msgid "Preview before import"
+msgstr ""
+
+msgid "Use associated geometry"
+msgstr ""
+
+msgid "Select associated geometry for selected organisation units"
+msgstr ""
+
+msgid "Import groups to category option combinations"
+msgstr ""
+
+msgid ""
+"Earth Engine data set \"Population age groups\" has disaggregation groups. "
+"Choose the category option combinations to import each group into."
+msgstr ""
+
+msgid "Group name"
+msgstr "اسم المجموعة"
+
+msgid "Group description"
+msgstr ""
+
+msgid "Category option combination"
+msgstr "مزيج خيارات الفئة"
+
+msgid "No match found"
+msgstr ""
+
+msgid "Choose category option combo"
+msgstr ""
+
+msgid "Data element"
+msgstr "عنصر البيانات"
+
+msgid "Select data element"
+msgstr "تحديد عنصر البيانات"
+
+msgid "The data element where Earth Engine data will be added"
+msgstr ""
+
+msgid "Earth Engine data set"
+msgstr ""
+
+msgid "Select earth engine data set"
+msgstr ""
+
+msgid "Selected: {{commaSeparatedListOfOrganisationUnits}}"
+msgstr ""
+
+msgid "Nothing selected"
+msgstr ""
+
+msgid "Select a level"
+msgstr "حدد مستوى"
+
+msgid "Deselect all"
+msgstr "إلغاء تحديد الكل"
+
+msgid "Organisation unit(s) to import data to"
+msgstr ""
+
+msgid "You must select an Earth Engine data set before selecting a period"
+msgstr ""
+
+msgid "Period"
+msgstr "الفترة الزمنية"
+
+msgid "Data from Earth Engine will be imported for this period."
+msgstr ""
+
+msgid "Select period"
+msgstr "تحديد الفترة الزمنية"
+
+msgid "Loading periods"
+msgstr ""
+
+msgid "No periods found"
+msgstr ""
+
+msgid "Point org. unit - no value"
+msgstr ""
+
+msgid "Organisation Unit"
+msgstr "الوحدة التنظيمية"
+
+msgid "Category option combo"
+msgstr "مزيج خيارات الفئة"
+
+msgid "Current value"
+msgstr ""
+
+msgid "New value"
+msgstr ""
+
+msgid "Rows per page"
+msgstr "عدد الصفوف لكل صفحة"
+
+msgid ""
+"Page {{page}} of {{pageCount}}, row {{firstItem}}-{{lastItem}} of {{total}}"
+msgstr ""
+
+msgid "Don't round source values"
+msgstr ""
+
+msgid "Round to 0 decimal places"
+msgstr ""
+
+msgid "Round to 1 decimal place"
+msgstr ""
+
+msgid "Round to 2 decimal places"
+msgstr ""
+
+msgid "Round to 3 decimal places"
+msgstr ""
+
+msgid "Round to 4 decimal places"
+msgstr ""
+
+msgid "Round to 5 decimal places"
+msgstr ""
+
+msgid "Round to 6 decimal places"
+msgstr ""
+
+msgid "Value rounding"
+msgstr ""
+
+msgid "An error occurred while trying to fetch Earth Engine data"
+msgstr ""
+
+msgid ""
+"The Earth Engine data set is too large. Try reducing the number of groups or"
+" organisation units"
+msgstr ""
+
+msgid "The organisation units selection is invalid"
+msgstr ""
+
+msgid "The app could not retrieve required data."
+msgstr ""
+
+msgid "Network error"
+msgstr ""
+
+msgid "Cannot get authorization token for Google Earth Engine."
+msgstr ""
+
+msgid ""
+"Requires a Google Earth Engine account. Check the DHIS2 documentation for "
+"more information."
+msgstr ""
+
+msgid "Population"
+msgstr ""
+
+msgid "Population age groups"
+msgstr ""
+
+msgid "Men 0 - 1 years"
+msgstr ""
+
+msgid "Men 1 - 4 years"
+msgstr ""
+
+msgid "Men 5 - 9 years"
+msgstr ""
+
+msgid "Men 10 - 14 years"
+msgstr ""
+
+msgid "Men 15 - 19 years"
+msgstr ""
+
+msgid "Men 20 - 24 years"
+msgstr ""
+
+msgid "Men 25 - 29 years"
+msgstr ""
+
+msgid "Men 30 - 34 years"
+msgstr ""
+
+msgid "Men 35 - 39 years"
+msgstr ""
+
+msgid "Men 40 - 44 years"
+msgstr ""
+
+msgid "Men 45 - 49 years"
+msgstr ""
+
+msgid "Men 50 - 54 years"
+msgstr ""
+
+msgid "Men 55 - 59 years"
+msgstr ""
+
+msgid "Men 60 - 64 years"
+msgstr ""
+
+msgid "Men 65 - 69 years"
+msgstr ""
+
+msgid "Men 70 - 74 years"
+msgstr ""
+
+msgid "Men 75 - 79 years"
+msgstr ""
+
+msgid "Men 80 years and above"
+msgstr ""
+
+msgid "Women 0 - 1 years"
+msgstr ""
+
+msgid "Women 1 - 4 years"
+msgstr ""
+
+msgid "Women 5 - 9 years"
+msgstr ""
+
+msgid "Women 10 - 14 years"
+msgstr ""
+
+msgid "Women 15 - 19 years"
+msgstr ""
+
+msgid "Women 20 - 24 years"
+msgstr ""
+
+msgid "Women 25 - 29 years"
+msgstr ""
+
+msgid "Women 30 - 34 years"
+msgstr ""
+
+msgid "Women 35 - 39 years"
+msgstr ""
+
+msgid "Women 40 - 44 years"
+msgstr ""
+
+msgid "Women 45 - 49 years"
+msgstr ""
+
+msgid "Women 50 - 54 years"
+msgstr ""
+
+msgid "Women 55 - 59 years"
+msgstr ""
+
+msgid "Women 60 - 64 years"
+msgstr ""
+
+msgid "Women 65 - 69 years"
+msgstr ""
+
+msgid "Women 70 - 74 years"
+msgstr ""
+
+msgid "Women 75 - 79 years"
+msgstr ""
+
+msgid "Women 80 years and above"
+msgstr ""
+
+msgid "No organisation units have been selected"
+msgstr ""
+
+msgid ""
+"It is not possible to get data from Earth Engine for point facilities. "
+"Select polygon organisation units or use a catchment area as associated "
+"geometry."
+msgstr ""
+
+msgid ""
+"Export event data for programs, stages and tracked entities in DXF 2 format."
+msgstr ""
+
+msgid "Export events"
+msgstr "تصدير أحداث"
+
+msgid ""
+"Import events for programs, stages and tracked entities using the DXF 2 "
+"format."
+msgstr ""
+"استيراد الأحداث للبرامج والمراحل والكيانات المتعقبة باستخدام تنسيق DXF 2."
+
+msgid "Supported file types: JSON, CSV, and XML."
+msgstr "أنواع الملفات المدعومة: JSON و CSV و XML."
+
+msgid "Organisation unit geometry import"
+msgstr ""
+
+msgid ""
+"Import geographic data for organisation units. GeoJSON is the recommend "
+"format and can also be used for associated geometries or catchment areas."
+msgstr ""
+
+msgid ""
+"GeoJSON feature id should match the organsation unit id, or match by a "
+"feature property below."
+msgstr ""
+
+msgid "Overview: Import/Export"
+msgstr "نظرة عامة: الاستيراد / التصدير"
+
+msgid "Import or export DHIS2 data."
+msgstr "استيراد أو تصدير بيانات DHIS2."
+
+msgid "Export metadata dependencies"
+msgstr ""
+
+msgid "Export metadata"
+msgstr "تصدير بيانات وصفية"
+
+msgid "Export tracked entity instances"
+msgstr "تصدير نسخ الكيانات المتعقبة"
+
+msgid "Import data"
+msgstr "استيراد بيانات"
+
+msgid "Import events"
+msgstr "استيراد احداث"
+
+msgid "Import Earth Engine"
+msgstr ""
+
+msgid "Import GeoJSON"
+msgstr ""
+
+msgid "Import metadata"
+msgstr "استيراد بيانات وصفية"
+
+msgid "Import tracked entity instances"
+msgstr "استيراد نسخ الكيانات المتعقبة"
+
+msgid "An overview of all import jobs started this session."
+msgstr "نظرة عامة على جميع مهام الاستيراد التي بدأت في هذه الجلسة."
+
+msgid ""
+"Export metadata dependencies, such as data sets and programs, including "
+"related metadata objects, in JSON format."
+msgstr ""
+
+msgid ""
+"Export metadata, such as data elements and organisation units, in JSON "
+"format."
+msgstr ""
+
+msgid ""
+"Import metadata like data elements and organisation units using the JSON and"
+" CSV format."
+msgstr ""
+
+msgid "Supported file types: JSON and CSV."
+msgstr ""
+
+msgid "A class key must be selected"
+msgstr "يجب تحديد class key"
+
+msgid "Tracked entity instances export"
+msgstr ""
+
+msgid "Export tracked entity instances in XML, JSON or CSV format."
+msgstr ""
+
+msgid "Program to export from"
+msgstr ""
+
+msgid "Enrollment date range"
+msgstr ""
+
+msgid "At least one of the 'last updated' date fields must be specified"
+msgstr "يجب تحديد حقل تاريخ واحد على الأقل من حقول \"آخر تحديث\""
+
+msgid "Tracked entity instances import"
+msgstr "استيراد نسخ الكيان المتعقبة"
+
+msgid "Import tracked entity instances from JSON or XML files."
+msgstr "استيراد نسخ الكيانات المتعقبة من ملفات JSON أو XML."
+
+msgid "Supported file types: JSON and XML."
+msgstr "أنواع الملفات المدعومة: JSON و XML."
+
+msgid "Job started."
+msgstr ""
+
+msgid "An unknown error occurred. Please try again later"
+msgstr "حدث خطأ غير معروف. الرجاء إعادة المحاولة في وقت لاحق"
+
+msgid "Loading exported data"
+msgstr "تحميل البيانات المصدرة"
+
+msgid "Data"
+msgstr "بيانات"
+
+msgid "Event"
+msgstr "حدث"
+
+msgid "GeoJSON"
+msgstr ""
+
+msgid "GML"
+msgstr "GML"
+
+msgid "Metadata"
+msgstr "البيانات الوصفية"
+
+msgid "TEI"
+msgstr "TEI"
