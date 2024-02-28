@@ -1,0 +1,1212 @@
+# 
+# Translators:
+# phil_dhis2, 2022
+# Viktor Varland <viktor@dhis2.org>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2022-09-06T13:23:03.852Z\n"
+"PO-Revision-Date: 2019-06-04 17:24+0000\n"
+"Last-Translator: Viktor Varland <viktor@dhis2.org>, 2022\n"
+"Language-Team: Urdu (https://www.transifex.com/hisp-uio/teams/100509/ur/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ur\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Something went wrong when loading the current user!"
+msgstr ""
+
+msgid "Basic options"
+msgstr ""
+
+msgid "Invalid date"
+msgstr ""
+
+msgid "Start date must be before end date"
+msgstr ""
+
+msgid "End date must be after start date"
+msgstr ""
+
+msgid "Invalid duration"
+msgstr ""
+
+msgid "Format"
+msgstr "فارمیٹ"
+
+msgid ""
+"Something went wrong when loading the additional data element ID schemes"
+msgstr ""
+
+msgid "Something went wrong when loading the additional ID schemes"
+msgstr ""
+
+msgid ""
+"Something went wrong when loading the additional organisation unit ID "
+"schemes"
+msgstr ""
+
+msgid "Please select a file"
+msgstr ""
+
+msgid "Import as associated geometry"
+msgstr ""
+
+msgid "Store geometry as value of attribute"
+msgstr ""
+
+msgid "Selected programs"
+msgstr "منتخب کردہ پروگرام"
+
+msgid "Something went wrong when loading the attributes!"
+msgstr ""
+
+msgid "One attribute must be selected"
+msgstr ""
+
+msgid ""
+"Associated geometry import requires an attribute of type \"GeoJSON\" applied"
+" to \"Organisation unit\". It can be defined in the Maintenance app."
+msgstr ""
+
+msgid "Match GeoJSON property to organisation unit scheme"
+msgstr ""
+
+msgid "GeoJSON property name"
+msgstr ""
+
+msgid "GeoJSON feature property that holds the organisation unit identifier"
+msgstr ""
+
+msgid "A dry run tests the import settings without importing any data"
+msgstr ""
+
+msgid "Start dry run"
+msgstr ""
+
+msgid "Start import"
+msgstr ""
+
+msgid "Any user"
+msgstr ""
+
+msgid "Current user"
+msgstr "موجودہ صارف"
+
+msgid "No user/unassigned"
+msgstr ""
+
+msgid "Selected users"
+msgstr ""
+
+msgid "Filter by assigned user"
+msgstr ""
+
+msgid "Export only instances with events assigned to specific users"
+msgstr ""
+
+msgid "Assigned user(s)"
+msgstr ""
+
+msgid "Do not import"
+msgstr ""
+
+msgid "Import"
+msgstr "اِیمپورٹ"
+
+msgid "Atomic mode"
+msgstr ""
+
+msgid "Whether to import objects even if some references do not exist"
+msgstr ""
+
+msgid "Class key"
+msgstr ""
+
+msgid "Zip"
+msgstr "زی۔ایپ"
+
+msgid "GZip"
+msgstr ""
+
+msgid "Uncompressed"
+msgstr "ان کمپریس"
+
+msgid "Compression mode"
+msgstr ""
+
+msgid "Uid"
+msgstr ""
+
+msgid "Code"
+msgstr "کوڈ"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Data element ID scheme"
+msgstr "ڈیٹا ائ۔ڈی سکیم"
+
+msgid "Which data sets should be included in export?"
+msgstr ""
+
+msgid "Filter data sets"
+msgstr ""
+
+msgid "Selected data sets"
+msgstr "منتخب ڈیٹا سیٹ"
+
+msgid "Something went wrong when loading the data sets!"
+msgstr ""
+
+msgid "At least one data set must be selected"
+msgstr ""
+
+msgid "One data set must be selected"
+msgstr ""
+
+msgid "End date"
+msgstr "تاریخ اختتام"
+
+msgid "Event ID scheme"
+msgstr ""
+
+msgid "Loading export..."
+msgstr ""
+
+msgid "Select a file to import values from"
+msgstr ""
+
+msgid "Is the first row a header row?"
+msgstr ""
+
+msgid "First row is header"
+msgstr ""
+
+msgid "A header row will be ignored during import"
+msgstr ""
+
+msgid "Auto (recommended)"
+msgstr ""
+
+msgid "Object (debugging purposes)"
+msgstr ""
+
+msgid "Flush mode"
+msgstr ""
+
+msgid "Controls when to flush the internal cache"
+msgstr ""
+
+msgid "All"
+msgstr "تمام"
+
+msgid "Marked for follow-up"
+msgstr ""
+
+msgid "Not marked for follow-up"
+msgstr ""
+
+msgid "Include only entities with follow-up status"
+msgstr ""
+
+msgid "JSON"
+msgstr "جے۔سو۔ن"
+
+msgid "CSV"
+msgstr "سی۔ایس۔وی"
+
+msgid "XML"
+msgstr "ایکس۔ایم۔ایل"
+
+msgid "ADX"
+msgstr ""
+
+msgid "PDF"
+msgstr ""
+
+msgid "JSONP"
+msgstr ""
+
+msgid "What format is the data to import?"
+msgstr ""
+
+msgid "What format should the data be exported as?"
+msgstr ""
+
+msgid "ID scheme"
+msgstr "ائ۔ڈی سکیم"
+
+msgid "UID"
+msgstr "یو۔ای۔ڈی"
+
+msgid "Identifier"
+msgstr "شناختی"
+
+msgid "Identifier scheme to use for reference matching"
+msgstr ""
+
+msgid "Only include reports for objects that have errors"
+msgstr ""
+
+msgid "Errors"
+msgstr "غلطیاں"
+
+msgid "Reports for all objects imported"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Reports for all objects imported along with their names (if available)"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Import report mode"
+msgstr ""
+
+msgid "Controls what should be reported after the import is done"
+msgstr ""
+
+msgid "Import new values and update existing"
+msgstr ""
+
+msgid "Merge"
+msgstr "ضم"
+
+msgid "Import new values only"
+msgstr ""
+
+msgid "Append"
+msgstr "شامل کریں"
+
+msgid "Only update existing values, ignore new values"
+msgstr ""
+
+msgid "Update"
+msgstr "اپڈیٹ"
+
+msgid "Remove values included in uploaded file"
+msgstr ""
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Data will be deleted"
+msgstr ""
+
+msgid ""
+"Values in the uploaded file will be deleted from the database. Make sure "
+"this is the correct action; it cannot be undone."
+msgstr ""
+
+msgid "Import strategy"
+msgstr ""
+
+msgid "Include all attributes"
+msgstr ""
+
+msgid "Include first level units"
+msgstr ""
+
+msgid "Include descendants of selected organisation units"
+msgstr ""
+
+msgid "Include deleted"
+msgstr ""
+
+msgid "Include deleted data in export"
+msgstr ""
+
+msgid "Only include selected organisation unit"
+msgstr ""
+
+msgid "Selected"
+msgstr "منتخب"
+
+msgid "Include the first level of units inside selections"
+msgstr ""
+
+msgid "Directly below"
+msgstr ""
+
+msgid "Include all units inside selections"
+msgstr ""
+
+msgid "All below"
+msgstr ""
+
+msgid "How should organisation units inside the selections be included?"
+msgstr ""
+
+msgid "Includes properties which are not null"
+msgstr ""
+
+msgid "Non null"
+msgstr ""
+
+msgid "Include all properties"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Include non-empty properties"
+msgstr ""
+
+msgid "Non empty"
+msgstr ""
+
+msgid "Inclusion strategy"
+msgstr ""
+
+msgid "Controls which properties to include"
+msgstr ""
+
+msgid "Async"
+msgstr ""
+
+msgid "Asynchronous import"
+msgstr ""
+
+msgid "Controls whether the import is done asynchronously"
+msgstr ""
+
+msgid "Last updated duration"
+msgstr ""
+
+msgid "Last updated end date"
+msgstr ""
+
+msgid "Do not filter by last updated date"
+msgstr ""
+
+msgid "Start/end dates"
+msgstr "شروع / ختم تاریخیں"
+
+msgid "Time since last updated"
+msgstr ""
+
+msgid "Filter by last updated date"
+msgstr ""
+
+msgid "Last updated start date"
+msgstr ""
+
+msgid "Only overwrite the old property if the new property value is not-null"
+msgstr ""
+
+msgid "Overwrite regardless of whether the new property value is null"
+msgstr ""
+
+msgid "Replace"
+msgstr "تبدیل کریں"
+
+msgid "Merge mode"
+msgstr ""
+
+msgid "Strategy to take when merging two objects"
+msgstr ""
+
+msgid "Data sets"
+msgstr "ڈیٹا سیٹس"
+
+msgid "Programs"
+msgstr "پروگرامس"
+
+msgid "Category combination"
+msgstr "قسم کا مجموعہ"
+
+msgid "Dashboard"
+msgstr "ڈیشپورڈ"
+
+msgid "Data element groups"
+msgstr "ڈیٹا عناصر کا گروہ"
+
+msgid "Option sets"
+msgstr ""
+
+msgid "Object type"
+msgstr "اؤبجیکٹ ٹائپ"
+
+msgid "One object must be selected"
+msgstr ""
+
+msgid "Object"
+msgstr "اؤبجیکٹ"
+
+msgid "Organisation unit ID scheme"
+msgstr ""
+
+msgid "Id"
+msgstr "آئی ڈی"
+
+msgid "Data view organisation units associated with the current user"
+msgstr ""
+
+msgid "Accessible"
+msgstr ""
+
+msgid "Data capture organisation units associated with the current user"
+msgstr ""
+
+msgid "Capture"
+msgstr "قبضہ"
+
+msgid "All organisation units in the system"
+msgstr ""
+
+msgid "Manually select organisation units from list"
+msgstr ""
+
+msgid "Which organisation units should be included?"
+msgstr ""
+
+msgid "Organisation unit(s) to export data from"
+msgstr ""
+
+msgid "Preheat cache"
+msgstr "پہلے سے ہی کیش کو گرم کرو"
+
+msgid "Preheat cache to make large imports faster"
+msgstr ""
+
+msgid "Large imports will be processed faster but will consume more resources"
+msgstr ""
+
+msgid "Intelligent scan (reference)"
+msgstr ""
+
+msgid "None"
+msgstr "کوئی نہں"
+
+msgid "Preheat mode"
+msgstr ""
+
+msgid "Controls the level of preheating that should be done"
+msgstr ""
+
+msgid "Program to export events from"
+msgstr ""
+
+msgid "Filter programs"
+msgstr ""
+
+msgid "Something went wrong when loading the programs!"
+msgstr ""
+
+msgid "At least one program must be selected"
+msgstr ""
+
+msgid "One program must be selected"
+msgstr ""
+
+msgid "Which program stage should be included?"
+msgstr ""
+
+msgid "Start date"
+msgstr "تاریخ آغاز"
+
+msgid "All statuses"
+msgstr ""
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Completed"
+msgstr "مکمل"
+
+msgid "Cancelled"
+msgstr "منسوخ"
+
+msgid "Include only entities with status"
+msgstr ""
+
+msgid "Skip audit"
+msgstr ""
+
+msgid "Skip audit, meaning audit values will not be generated"
+msgstr ""
+
+msgid "Improves performance at the cost of ability to audit changes"
+msgstr ""
+
+msgid "Skip exisiting check"
+msgstr ""
+
+msgid "Skip checks for existing data values"
+msgstr ""
+
+msgid ""
+"Improves performance and should only be used for empty databases or when the"
+" data values to import do not exist already"
+msgstr ""
+
+msgid "Skip sharing"
+msgstr ""
+
+msgid "Skip sharing and access settings"
+msgstr ""
+
+msgid ""
+"Skip sharing properties, do not merge sharing when doing updates, and do not"
+" add user group access when creating new objects"
+msgstr ""
+
+msgid "Skip validation"
+msgstr ""
+
+msgid "Skip validation for import (not recommended)"
+msgstr ""
+
+msgid "Strategy"
+msgstr "حکمت عملی"
+
+msgid "Program"
+msgstr "پروگرام"
+
+msgid "Tracked entity type"
+msgstr "ٹریک کردہ ادارے کی قسم"
+
+msgid "Filter by"
+msgstr ""
+
+msgid "Tracked entity types"
+msgstr ""
+
+msgid "Filter tracked entity types by name"
+msgstr ""
+
+msgid "Selected tracked entity types"
+msgstr ""
+
+msgid "Something went wrong when loading the tracked entity types!"
+msgstr ""
+
+msgid "At least one tracked entity type must be selected"
+msgstr ""
+
+msgid "One tracked entity type must be selected"
+msgstr ""
+
+msgid "Which users should be used?"
+msgstr ""
+
+msgid "Filter users"
+msgstr ""
+
+msgid "Something went wrong when loading the users!"
+msgstr ""
+
+msgid "At least one user must be selected"
+msgstr ""
+
+msgid "One user must be selected"
+msgstr ""
+
+msgid "No jobs started yet."
+msgstr ""
+
+msgid "Recreate job"
+msgstr ""
+
+msgid "In progress"
+msgstr "کام جاری ہے"
+
+msgid "Job details"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr "قدر"
+
+msgid "Job summary"
+msgstr ""
+
+msgid "Error"
+msgstr "غلطی"
+
+msgid "Conflicts"
+msgstr ""
+
+msgid "Dry run"
+msgstr "ڈرائے رن"
+
+msgid "Log"
+msgstr ""
+
+msgid "Time"
+msgstr "وقت"
+
+msgid "Message"
+msgstr "Ù¾ÛØºØ§Ù"
+
+msgid "ID"
+msgstr "شناخت"
+
+msgid "Messages"
+msgstr "پیغامات"
+
+msgid "Type"
+msgstr "ٹائپ"
+
+msgid "Property"
+msgstr ""
+
+msgid "View summary of recently started import job"
+msgstr ""
+
+msgid "Status"
+msgstr "حالت"
+
+msgid "Description"
+msgstr "تفصیلات"
+
+msgid "Summary"
+msgstr ""
+
+msgid "Created"
+msgstr "تخلیق"
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Ignored"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Total"
+msgstr "کُل"
+
+msgid "Indexes"
+msgstr ""
+
+msgid "Details by type"
+msgstr ""
+
+msgid "Advanced options"
+msgstr ""
+
+msgid "At least one organisation unit must be selected"
+msgstr ""
+
+msgid "One organisation unit must be selected"
+msgstr ""
+
+msgid "Something went wrong when loading the organisation units!"
+msgstr ""
+
+msgid "One program stage must be selected"
+msgstr ""
+
+msgid "Something went wrong when loading the schemas!"
+msgstr ""
+
+msgid "Select All"
+msgstr "تمام سلیکٹ کرو"
+
+msgid "Select None"
+msgstr "کوئی سیلکٹ نہ کرو"
+
+msgid "At least one schema must be selected"
+msgstr ""
+
+msgid "Export"
+msgstr "ایکسپورٹ"
+
+msgid "Data import"
+msgstr ""
+
+msgid "Event import"
+msgstr ""
+
+msgid "Earth Engine import"
+msgstr ""
+
+msgid "Org unit geometry import"
+msgstr ""
+
+msgid "Metadata import"
+msgstr ""
+
+msgid "TEI import"
+msgstr ""
+
+msgid "Data export"
+msgstr ""
+
+msgid "Event export"
+msgstr ""
+
+msgid "Metadata dependency export"
+msgstr ""
+
+msgid "Metadata export"
+msgstr ""
+
+msgid "TEI export"
+msgstr ""
+
+msgid "Job overview"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Yes"
+msgstr "ہاں"
+
+msgid "No"
+msgstr "نہیں"
+
+msgid "There are errors on this page"
+msgstr ""
+
+msgid "Something went wrong when loading the class keys"
+msgstr ""
+
+msgid "Something went wrong when loading the objects"
+msgstr ""
+
+msgid "All program stages"
+msgstr ""
+
+msgid "Something went wrong when loading the program stages"
+msgstr ""
+
+msgid ""
+"Export metadata, such as data elements and organisation units, in DXF 2 "
+"format."
+msgstr ""
+
+msgid "Date range to export data for"
+msgstr ""
+
+msgid "Export data"
+msgstr ""
+
+msgid "Import data values from ADX XML, DXF 2 XML, JSON, CSV or PDF files."
+msgstr ""
+
+msgid "Supported file types: JSON, CSV, XML, ADX and PDF."
+msgstr ""
+
+msgid "An error occurred while trying to fetch Earth Engine data"
+msgstr ""
+
+msgid ""
+"The Earth Engine data set is too large. Try reducing the number of groups or"
+" organisation units"
+msgstr ""
+
+msgid "The organisation units selection is invalid"
+msgstr ""
+
+msgid ""
+"Import WorldPop population data from Google Earth Engine to a DHIS2 data "
+"element"
+msgstr ""
+
+msgid "Earth Engine source"
+msgstr ""
+
+msgid "Organisation units"
+msgstr "تنظیمی یونٹس"
+
+msgid "Import setup"
+msgstr ""
+
+msgid "Some required fields are missing"
+msgstr ""
+
+msgid "Preview before import"
+msgstr ""
+
+msgid "Use associated geometry"
+msgstr ""
+
+msgid "Select associated geometry for selected organisation units"
+msgstr ""
+
+msgid "Data element"
+msgstr "ڈیٹا عنصر"
+
+msgid "The data element where Earth Engine data will be added"
+msgstr ""
+
+msgid "Earth Engine data set"
+msgstr ""
+
+msgid "Select earth engine data set"
+msgstr ""
+
+msgid "Import groups to category option combinations"
+msgstr ""
+
+msgid ""
+"Earth Engine data set \"Population age groups\" has disaggregation groups. "
+"Choose the category option combinations to import each group into."
+msgstr ""
+
+msgid "Group name"
+msgstr "گروپ نام"
+
+msgid "Group description"
+msgstr ""
+
+msgid "Category option combination"
+msgstr "اختیاری قسم کا مجموعہ"
+
+msgid "No match found"
+msgstr ""
+
+msgid "Choose category option combo"
+msgstr ""
+
+msgid "Selected: {{commaSeparatedListOfOrganisationUnits}}"
+msgstr ""
+
+msgid "Nothing selected"
+msgstr ""
+
+msgid "Select a level"
+msgstr ""
+
+msgid "Deselect all"
+msgstr "سب کو منتخب کریں"
+
+msgid "Organisation unit(s) to import data to"
+msgstr ""
+
+msgid "Period"
+msgstr "مدت"
+
+msgid "Data from Earth Engine will be imported for this period."
+msgstr ""
+
+msgid "Select period"
+msgstr "مدت کا انتخاب کریں"
+
+msgid "Loading periods"
+msgstr ""
+
+msgid "No periods found"
+msgstr ""
+
+msgid "Point org. unit - no value"
+msgstr ""
+
+msgid "Org Unit"
+msgstr ""
+
+msgid "Category option combo"
+msgstr "زمرہ اختیار کمبو"
+
+msgid "Current value"
+msgstr ""
+
+msgid "New value"
+msgstr ""
+
+msgid "Select rows per page"
+msgstr ""
+
+msgid "Don't round source values"
+msgstr ""
+
+msgid "Round to 0 decimal places"
+msgstr ""
+
+msgid "Round to 1 decimal place"
+msgstr ""
+
+msgid "Round to 2 decimal places"
+msgstr ""
+
+msgid "Round to 3 decimal places"
+msgstr ""
+
+msgid "Round to 4 decimal places"
+msgstr ""
+
+msgid "Round to 5 decimal places"
+msgstr ""
+
+msgid "Round to 6 decimal places"
+msgstr ""
+
+msgid "Value rounding"
+msgstr ""
+
+msgid "The app could not retrieve required data."
+msgstr ""
+
+msgid "Network error"
+msgstr ""
+
+msgid "Cannot get authorization token for Google Earth Engine."
+msgstr ""
+
+msgid ""
+"Requires a Google Earth Engine account. Check the DHIS2 documentation for "
+"more information."
+msgstr ""
+
+msgid "Population"
+msgstr ""
+
+msgid "Population age groups"
+msgstr ""
+
+msgid "Men 0 - 1 years"
+msgstr ""
+
+msgid "Men 1 - 4 years"
+msgstr ""
+
+msgid "Men 5 - 9 years"
+msgstr ""
+
+msgid "Men 10 - 14 years"
+msgstr ""
+
+msgid "Men 15 - 19 years"
+msgstr ""
+
+msgid "Men 20 - 24 years"
+msgstr ""
+
+msgid "Men 25 - 29 years"
+msgstr ""
+
+msgid "Men 30 - 34 years"
+msgstr ""
+
+msgid "Men 35 - 39 years"
+msgstr ""
+
+msgid "Men 40 - 44 years"
+msgstr ""
+
+msgid "Men 45 - 49 years"
+msgstr ""
+
+msgid "Men 50 - 54 years"
+msgstr ""
+
+msgid "Men 55 - 59 years"
+msgstr ""
+
+msgid "Men 60 - 64 years"
+msgstr ""
+
+msgid "Men 65 - 69 years"
+msgstr ""
+
+msgid "Men 70 - 74 years"
+msgstr ""
+
+msgid "Men 75 - 79 years"
+msgstr ""
+
+msgid "Men 80 years and above"
+msgstr ""
+
+msgid "Women 0 - 1 years"
+msgstr ""
+
+msgid "Women 1 - 4 years"
+msgstr ""
+
+msgid "Women 5 - 9 years"
+msgstr ""
+
+msgid "Women 10 - 14 years"
+msgstr ""
+
+msgid "Women 15 - 19 years"
+msgstr ""
+
+msgid "Women 20 - 24 years"
+msgstr ""
+
+msgid "Women 25 - 29 years"
+msgstr ""
+
+msgid "Women 30 - 34 years"
+msgstr ""
+
+msgid "Women 35 - 39 years"
+msgstr ""
+
+msgid "Women 40 - 44 years"
+msgstr ""
+
+msgid "Women 45 - 49 years"
+msgstr ""
+
+msgid "Women 50 - 54 years"
+msgstr ""
+
+msgid "Women 55 - 59 years"
+msgstr ""
+
+msgid "Women 60 - 64 years"
+msgstr ""
+
+msgid "Women 65 - 69 years"
+msgstr ""
+
+msgid "Women 70 - 74 years"
+msgstr ""
+
+msgid "Women 75 - 79 years"
+msgstr ""
+
+msgid "Women 80 years and above"
+msgstr ""
+
+msgid "No organisation units have been selected"
+msgstr ""
+
+msgid "No geofeatures found for selected organisation units"
+msgstr ""
+
+msgid ""
+"Export event data for programs, stages and tracked entities in DXF 2 format."
+msgstr ""
+
+msgid "Export events"
+msgstr ""
+
+msgid ""
+"Import events for programs, stages and tracked entities using the DXF 2 "
+"format."
+msgstr ""
+
+msgid "Supported file types: JSON, CSV, and XML."
+msgstr ""
+
+msgid "Organisation unit geometry import"
+msgstr ""
+
+msgid ""
+"Import geographic data for organisation units. GeoJSON is the recommend "
+"format and can also be used for associated geometries or catchment areas."
+msgstr ""
+
+msgid ""
+"GeoJSON feature id should match the organsation unit id, or match by a "
+"feature property below."
+msgstr ""
+
+msgid "Overview: Import/Export"
+msgstr ""
+
+msgid "Import or export DHIS2 data."
+msgstr ""
+
+msgid "Export metadata dependencies"
+msgstr ""
+
+msgid "Export metadata"
+msgstr ""
+
+msgid "Export tracked entity instances"
+msgstr ""
+
+msgid "Import data"
+msgstr ""
+
+msgid "Import events"
+msgstr ""
+
+msgid "Import GeoJSON"
+msgstr ""
+
+msgid "Import metadata"
+msgstr ""
+
+msgid "Import tracked entity instances"
+msgstr ""
+
+msgid "An overview of all import jobs started this session."
+msgstr ""
+
+msgid ""
+"Export metadata dependencies, such as data sets and programs, including "
+"related metadata objects, in XML or JSON format."
+msgstr ""
+
+msgid ""
+"Export metadata, such as data elements and organisation units, in XML, JSON "
+"or CSV format."
+msgstr ""
+
+msgid ""
+"Import metadata like data elements and organisation units using the DXF 2 "
+"format."
+msgstr ""
+
+msgid "A class key must be selected"
+msgstr ""
+
+msgid "Tracked entity instances export"
+msgstr ""
+
+msgid "Export tracked entity instances in XML, JSON or CSV format."
+msgstr ""
+
+msgid "Program to export from"
+msgstr ""
+
+msgid "Enrollment date range"
+msgstr ""
+
+msgid "At least one of the 'last updated' date fields must be specified"
+msgstr ""
+
+msgid "Tracked entity instances import"
+msgstr ""
+
+msgid "Import tracked entity instances from JSON or XML files."
+msgstr ""
+
+msgid "Supported file types: JSON and XML."
+msgstr ""
+
+msgid "Job started."
+msgstr ""
+
+msgid "An unknown error occurred. Please try again later"
+msgstr ""
+
+msgid "Loading exported data"
+msgstr ""
+
+msgid "Data"
+msgstr "ڈیٹا"
+
+msgid "Event"
+msgstr "تقریب"
+
+msgid "GeoJSON"
+msgstr ""
+
+msgid "GML"
+msgstr ""
+
+msgid "Metadata"
+msgstr "میٹا ڈیٹا"
+
+msgid "TEI"
+msgstr ""

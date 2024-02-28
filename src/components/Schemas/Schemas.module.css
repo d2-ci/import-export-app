@@ -1,0 +1,40 @@
+.container {
+    margin-bottom: var(--spacers-dp32);
+    max-width: 1200px;
+}
+
+.group {
+    padding: var(--spacers-dp4) var(--spacers-dp8) var(--spacers-dp8);
+    border: 1px solid var(--colors-grey300);
+    margin: 0 var(--spacers-dp16) var(--spacers-dp12) 0;
+    background: var(--colors-white);
+}
+
+.group .schema {
+    margin-top: var(--spacers-dp4);
+}
+
+.control {
+    margin: 0 0 0 var(--spacers-dp4);
+}
+.control:hover,
+.control:focus-within {
+    background: var(--colors-grey200);
+    border-radius: 3px;
+}
+
+.formLabel {
+    margin-bottom: var(--spacers-dp4);
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: var(--colors-grey900);
+}
+
+.formControl {
+    margin-top: var(--spacers-dp12);
+    display: flex;
+    flex-direction: column;
+    max-height: 800px;
+    flex-wrap: wrap;
+}
