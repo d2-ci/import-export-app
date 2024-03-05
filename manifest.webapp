@@ -1,9 +1,10 @@
 {
+  "app_hub_id": "275afdce-16d2-40e1-8a9b-5b22d882ed74",
   "appType": "APP",
   "short_name": "import-export",
   "name": "Import/Export",
-  "description": "",
-  "version": "1.5.69",
+  "description": "Core app for importing and exporting data to and from DHIS2.",
+  "version": "100.0.2",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Mar 05 2024 13:24:18 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Mar 05 2024 13:24:43 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",

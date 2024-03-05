@@ -1,7 +1,7 @@
 {
   "short_name": "Import/Export",
   "name": "Import/Export",
-  "description": "",
+  "description": "Core app for importing and exporting data to and from DHIS2.",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
