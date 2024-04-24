@@ -4,7 +4,7 @@
   "short_name": "import-export",
   "name": "Import/Export",
   "description": "Core app for importing and exporting data to and from DHIS2.",
-  "version": "101.0.2",
+  "version": "101.0.5",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Apr 03 2024 07:39:43 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Apr 24 2024 12:11:03 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
