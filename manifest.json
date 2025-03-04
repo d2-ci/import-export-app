@@ -50,11 +50,12 @@
     },
     {
       "src": "safari-pinned-tab.svg",
+      "sizes": "16x16",
       "type": "image/svg+xml"
     }
   ],
   "start_url": ".",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#f4f6f8"
 }
