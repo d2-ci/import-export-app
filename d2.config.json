@@ -6,7 +6,7 @@
   "description": "Core app for importing and exporting data to and from DHIS2.",
   "coreApp": true,
   "minDHIS2Version": "2.41",
-  "version": "101.1.26",
+  "version": "101.1.27",
   "entryPoints": {
     "app": "index.html"
   }
