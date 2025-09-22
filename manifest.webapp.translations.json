@@ -1,0 +1,161 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {}
+  },
+  {
+    "locale": "bn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "da",
+    "shortcuts": {}
+  },
+  {
+    "locale": "en",
+    "shortcuts": {
+      "Data import": "Data import",
+      "Data export": "Data export",
+      "Metadata import": "Metadata import",
+      "Metadata export\t": "Metadata export\t"
+    },
+    "title": "Import/Export",
+    "description": "Core app for importing and exporting data to and from DHIS2."
+  },
+  {
+    "locale": "es",
+    "shortcuts": {}
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {}
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {}
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {}
+  },
+  {
+    "locale": "id",
+    "shortcuts": {}
+  },
+  {
+    "locale": "km",
+    "shortcuts": {}
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {}
+  },
+  {
+    "locale": "my",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "or",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {}
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {}
+  },
+  {
+    "locale": "si",
+    "shortcuts": {}
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {}
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {}
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {}
+  }
+]
