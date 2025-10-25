@@ -6,7 +6,25 @@
   "description": "Core app for importing and exporting data to and from DHIS2.",
   "coreApp": true,
   "minDHIS2Version": "2.41",
-  "version": "101.1.29",
+  "shortcuts": [
+    {
+      "name": "Data import",
+      "url": "#/import/data"
+    },
+    {
+      "name": "Data export",
+      "url": "#/export/data"
+    },
+    {
+      "name": "Metadata import",
+      "url": "#/import/metadata"
+    },
+    {
+      "name": "Metadata export\t",
+      "url": "#/export/metadata"
+    }
+  ],
+  "version": "101.2.0",
   "entryPoints": {
     "app": "index.html"
   }
