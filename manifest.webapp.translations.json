@@ -1,7 +1,14 @@
 [
   {
     "locale": "ar",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "استيراد البيانات",
+      "Data export": "تصدير البيانات",
+      "Metadata import": "استيراد البيانات الوصفية",
+      "Metadata export\t": ""
+    },
+    "title": "استيراد-تصدير",
+    "description": ""
   },
   {
     "locale": "ar_IQ",
@@ -20,15 +27,36 @@
   },
   {
     "locale": "ckb",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "داخل كردن- وةركرتن",
+    "description": ""
   },
   {
     "locale": "cs",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Import dat",
+      "Data export": "Export dat",
+      "Metadata import": "Import metadat",
+      "Metadata export\t": ""
+    },
+    "title": "Import/Export",
+    "description": ""
   },
   {
     "locale": "da",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Import-Export",
+    "description": ""
   },
   {
     "locale": "en",
@@ -43,7 +71,14 @@
   },
   {
     "locale": "es",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Importación de datos",
+      "Data export": "Exportación de datos",
+      "Metadata import": "Importar metadatos",
+      "Metadata export\t": ""
+    },
+    "title": "Importar/exportar",
+    "description": ""
   },
   {
     "locale": "es_419",
@@ -52,13 +87,13 @@
   {
     "locale": "fr",
     "shortcuts": {
-      "Data import": "",
-      "Data export": "",
-      "Metadata import": "",
-      "Metadata export\t": ""
+      "Data import": "Importation de données",
+      "Data export": "Exportation de données",
+      "Metadata import": "Importation de métadonnées",
+      "Metadata export\t": "Exportation de métadonnées\t"
     },
-    "title": "",
-    "description": ""
+    "title": "Import/Export",
+    "description": "Application principale pour l'importation et l'exportation de données vers et depuis DHIS2."
   },
   {
     "locale": "hi_IN",
@@ -73,23 +108,58 @@
   },
   {
     "locale": "id",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Impor/Ekspor",
+    "description": ""
   },
   {
     "locale": "km",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "បញ្ចេញ-បញ្ចូលទិន្នន័យ",
+    "description": ""
   },
   {
     "locale": "lo",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "ນຳຂໍ້ມູນເຂົ້າ-ອອກ",
+    "description": ""
   },
   {
     "locale": "my",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "အသွင်းအထုတ်ပြုလုပ်ခြင်း",
+    "description": ""
   },
   {
     "locale": "nb",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Dataimport",
+      "Data export": "Dataeksport",
+      "Metadata import": "Metadataimport",
+      "Metadata export\t": ""
+    },
+    "title": "Importer/Eksporter",
+    "description": ""
   },
   {
     "locale": "ne",
@@ -105,15 +175,36 @@
   },
   {
     "locale": "prs",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "وارد-صادر",
+    "description": ""
   },
   {
     "locale": "ps",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "واردول-صادرول",
+    "description": ""
   },
   {
     "locale": "pt",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Importação de dados ",
+      "Data export": "Exportação de dados ",
+      "Metadata import": "Importação de metadados ",
+      "Metadata export\t": ""
+    },
+    "title": "Importar-Exportar",
+    "description": ""
   },
   {
     "locale": "pt_BR",
@@ -132,7 +223,14 @@
   },
   {
     "locale": "ru",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Импорт-Экспорт",
+    "description": ""
   },
   {
     "locale": "si",
@@ -140,23 +238,58 @@
   },
   {
     "locale": "sv",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Import Export",
+    "description": ""
   },
   {
     "locale": "tet",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Importa-Exporta",
+    "description": ""
   },
   {
     "locale": "tg",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Воридот-Содирот",
+    "description": ""
   },
   {
     "locale": "uk",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Імпорт-Експорт",
+    "description": ""
   },
   {
     "locale": "ur",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "درآمد.برآمد",
+    "description": ""
   },
   {
     "locale": "uz_Cyrl",
@@ -168,22 +301,57 @@
   },
   {
     "locale": "uz_UZ_Cyrl",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Маълумотлар импорти",
+      "Data export": "Маълумотлар экспорти",
+      "Metadata import": "МетаМаълумот импорти",
+      "Metadata export\t": ""
+    },
+    "title": "Импорт/Экспорт",
+    "description": ""
   },
   {
     "locale": "uz_UZ_Latn",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "Maʼlumotlar importi",
+      "Data export": "Maʼlumotlar eksporti",
+      "Metadata import": "MetaMaʼlumot importi",
+      "Metadata export\t": ""
+    },
+    "title": "Import/Eksport",
+    "description": ""
   },
   {
     "locale": "vi",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "",
+      "Data export": "",
+      "Metadata import": "",
+      "Metadata export\t": ""
+    },
+    "title": "Nhập/Xuất",
+    "description": ""
   },
   {
     "locale": "zh",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "数据导入",
+      "Data export": "数据导出",
+      "Metadata import": "元数据导入",
+      "Metadata export\t": "元数据导出"
+    },
+    "title": "数据导入导出",
+    "description": "核心应用程序，用于将数据导入和导出 DHIS2。"
   },
   {
     "locale": "zh_CN",
-    "shortcuts": {}
+    "shortcuts": {
+      "Data import": "数据导入",
+      "Data export": "数据导出",
+      "Metadata import": "元数据导入",
+      "Metadata export\t": ""
+    },
+    "title": "数据导入导出",
+    "description": ""
   }
 ]
