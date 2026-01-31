@@ -42,10 +42,10 @@
       "Data import": "Import dat",
       "Data export": "Export dat",
       "Metadata import": "Import metadat",
-      "Metadata export\t": ""
+      "Metadata export\t": "Export metadat"
     },
     "title": "Import/Export",
-    "description": ""
+    "description": "Základní aplikace pro import a export dat do a z DHIS2."
   },
   {
     "locale": "da",
