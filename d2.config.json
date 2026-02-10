@@ -24,7 +24,7 @@
       "url": "#/export/metadata"
     }
   ],
-  "version": "101.2.0",
+  "version": "101.3.0",
   "entryPoints": {
     "app": "index.html"
   }
