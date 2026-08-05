@@ -42,17 +42,6 @@
     "description": "Core app for importing and exporting data to and from DHIS2."
   },
   {
-    "locale": "en_US",
-    "shortcuts": {
-      "Data import": "",
-      "Data export": "",
-      "Metadata import": "",
-      "Metadata export\t": ""
-    },
-    "title": "",
-    "description": ""
-  },
-  {
     "locale": "es",
     "shortcuts": {}
   },
