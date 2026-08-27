@@ -4,7 +4,7 @@
   "short_name": "import-export",
   "name": "Import/Export",
   "description": "Core app for importing and exporting data to and from DHIS2.",
-  "version": "101.3.11",
+  "version": "101.4.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Aug 26 2026 08:36:37 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Aug 27 2026 12:28:30 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
@@ -36,6 +36,18 @@
     {
       "name": "Metadata export\t",
       "url": "#/export/metadata"
+    },
+    {
+      "name": "Event import",
+      "url": "#/import/event"
+    },
+    {
+      "name": "Event export",
+      "url": "#/export/event"
+    },
+    {
+      "name": "Metadata dependency export",
+      "url": "#/export/metadata-dependency"
     }
   ]
 }

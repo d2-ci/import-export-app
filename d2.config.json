@@ -22,9 +22,21 @@
     {
       "name": "Metadata export\t",
       "url": "#/export/metadata"
+    },
+    {
+      "name": "Event import",
+      "url": "#/import/event"
+    },
+    {
+      "name": "Event export",
+      "url": "#/export/event"
+    },
+    {
+      "name": "Metadata dependency export",
+      "url": "#/export/metadata-dependency"
     }
   ],
-  "version": "101.3.11",
+  "version": "101.4.0",
   "entryPoints": {
     "app": "index.html"
   }
