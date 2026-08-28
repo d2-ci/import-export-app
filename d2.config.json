@@ -36,7 +36,7 @@
       "url": "#/export/metadata-dependency"
     }
   ],
-  "version": "101.4.0",
+  "version": "101.4.1",
   "entryPoints": {
     "app": "index.html"
   }
