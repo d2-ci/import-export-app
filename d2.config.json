@@ -1,0 +1,8 @@
+{
+  "type": "app",
+  "name": "import-export",
+  "title": "Import/Export",
+  "coreApp": true,
+  "version": "1.5.20",
+  "description": ""
+}
