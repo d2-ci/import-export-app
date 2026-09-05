@@ -36,7 +36,10 @@
       "Data import": "Data import",
       "Data export": "Data export",
       "Metadata import": "Metadata import",
-      "Metadata export\t": "Metadata export\t"
+      "Metadata export\t": "Metadata export\t",
+      "Event import": "Event import",
+      "Event export": "Event export",
+      "Metadata dependency export": "Metadata dependency export"
     },
     "title": "Import/Export",
     "description": "Core app for importing and exporting data to and from DHIS2."
